@@ -1,0 +1,45 @@
+{
+  "name": "YOUR NAME HERE",
+
+  "app_id": "YOUR ID HERE",
+
+  "update_interval": 20,
+
+  "status": [
+    {
+      "image": "https://wojakparadise.net/wojak/3085/img",
+      "quote": "Somewhat understanding"
+    },
+    {
+      "image": "https://wojakparadise.net/wojak/2132/img",
+      "quote": "What is this"
+    },
+    {
+      "image": "https://wojakparadise.net/wojak/3072/img",
+      "quote": "Aughgaghghggugh"
+    },
+    {
+      "image": "https://wojakparadise.net/wojak/7451/img",
+      "quote": "Suffering"
+    },
+    {
+      "image": "https://wojakparadise.net/wojak/6456/img",
+      "quote": "Not even trying"
+    }
+  ],
+
+  "course": [
+    { "name": "Astronomy", "code": "AST0112" },
+    { "name": "Inferencia", "code": "EYP2114" },
+    { "name": "Taller de Progra Avanzada", "code": "IIC2552" },
+    { "name": "Padrenuestro", "code": "TTF039" },
+    { "name": "Bases de Datos", "code": "IIC2413" },
+    { "name": "Mineria de Datos", "code": "IIC2433" }
+  ],
+
+  "verification_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/640px-Twitter_Verified_Badge.svg.png",
+  "verification_text": "Verified (by {})",
+
+  "default_image": "https://wojakparadise.net/wojak/72/img",
+  "default_text": "NPC moment"
+}
