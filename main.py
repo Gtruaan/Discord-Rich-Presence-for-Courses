@@ -7,7 +7,6 @@ from presence import PresenceHandler
 
 
 def run(handler: PresenceHandler, lock: threading.Lock):
-
     update_interval = utils.get("update_interval")
 
     while True:
